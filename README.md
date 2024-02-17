@@ -5,6 +5,10 @@
 + [MCC CE - Revised](https://github.com/Aerocatia/mcc-ce-revised) is a project by Aerocatia that fixes many of the visual bugs in Combat Evolved, go check it out too!
 
 ## Halo 2
++ Elite zealot now uses ultra as parent rank instead of major.
++ Elite Heretic minor and major now use Elite minor and major shield recharge speeds.
++ Brute minor and major health swapped to fix rank scaling.
++ Grunt spec-ops now uses major as parent rank instead of ultra.
 + Elite Floodforms will now deal damage with energy swords more consistently.
 
 ## Halo 3
