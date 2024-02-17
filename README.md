@@ -2,8 +2,7 @@
 + Magnum default tags now use its campaign spread and damage, but added an "mp_" variant similar to other weapons.
 + Plasma Rifle default tags now use its campaign spread, but added an "mp_" variant similar to other weapons.
 + Motion sensor actual range reduced from 60m to 15m.
-
-+ [MCC CE - Revised](https://github.com/Aerocatia/mcc-ce-revised) is a project that fixes many of the visual bugs in Combat Evolved.
++ [MCC CE - Revised](https://github.com/Aerocatia/mcc-ce-revised) is a project by Aerocatia that fixes many of the visual bugs in Combat Evolved, go check it out too!
 
 ## Halo 2
 + Elite Floodforms will now deal damage with energy swords more consistently.
