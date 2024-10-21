@@ -35,5 +35,4 @@ While our goal is to not modify the sandbox for the sole purpose of changing the
 + In Spartan Ops, plasma pistols and railguns, as well as the jetpack and thruster AAs, now always use their "_pve" variant.
 
 ## TODO
-+ Halo 2 - Fix warthog not transferring damage to driver.
 + Halo 3 - Fix warthog mass.
